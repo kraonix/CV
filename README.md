@@ -16,28 +16,6 @@
 
 ---
 
-## 🚀 Projects
-
-### [QuizWorld](#) | *Java, SQL Server* (Feb 2025 – Mar 2025)  
-- Developed a dynamic Java GUI app for creating and hosting quizzes.  
-- Real-time result tracking and secure score history storage in SQL Server.  
-- Focused on intuitive design for a better quiz-taking experience.  
-
----
-
-### [FlapFlap](https://github.com/kraonix/FlapFlap) | *Unity Engine, C#* (May 2024 – Jun 2024)  
-- Recreated the viral game **Flappy Bird** in Unity.  
-- Implemented 2D physics, obstacle generation, scoring, and game loop logic.  
-- Built a standalone executable for Windows.  
-
----
-
-### [BookBounty](https://github.com/kraonix/BookBounty) | *PHP, HTML, JS, CSS, SQL* (Feb 2024 – May 2024)  
-- Online publishing platform for authors without editorial restrictions.  
-- User authentication system and dynamic content rendering.  
-- Fully responsive UI for all devices.  
-
----
 
 ## 📜 Certificates
 - **C++ Course with DSA** – GeeksForGeeks (Jul 2025)  
@@ -53,7 +31,7 @@
 ---
 
 ## 💻 Coding Profiles
-- **LeetCode:** [180+ Problems Solved](https://leetcode.com/u/Kraonix/)  
+- **LeetCode:** [220+ Problems Solved](https://leetcode.com/u/Kraonix/)  
 
 ---
 
